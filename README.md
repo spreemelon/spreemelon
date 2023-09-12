@@ -1,14 +1,17 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)    My name is Aman
+
+![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)    
+
+ My name is Aman 
 ============================================================================================================================
 
-Web Designer
+🤫
 ------------------
 
-have desire to simplify user experience and create pleasing interface.
 
-* 🧠  I'm learning React
-* 🤝  I'm open to collaborating on projects
-* ⚡  This Is Sparta!
+
+* 😄  I'm learning React.
+* 🤝  I'm open to collaborating on projects.
+* 🎧  Balotelli - Agueroooooooooooooo = ⚽ 💙   
 
 ### Skills
 
