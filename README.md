@@ -9,7 +9,7 @@
 
 
 
-* 😄  I'm learning React.
+* 😄  I'm learning new stuff :) .
 * 🤝  I'm open to collaborating on projects.
 * 🎧  Balotelli - Agueroooooooooooooo = ⚽ 💙   
 
