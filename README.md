@@ -9,9 +9,8 @@
 
 
 
-* 😄  I'm learning new stuff :) .
-* 🤝  I'm open to collaborating on projects.
-* 🎧  Balotelli - Agueroooooooooooooo = ⚽ 💙   
+* 😄  I'm learning new stuff :) 
+  
 
 
 
